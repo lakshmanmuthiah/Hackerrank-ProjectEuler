@@ -2,4 +2,4 @@
 
 https://www.hackerrank.com/contests/projecteuler/challenges
 
-Solutios for project Euler @Hackerrank
+Solutions for Hackerrank's project Euler
