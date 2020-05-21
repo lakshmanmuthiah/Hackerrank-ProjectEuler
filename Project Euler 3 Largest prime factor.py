@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem?isFullScreen=false
+#https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem
 
 import sys
 import math 
